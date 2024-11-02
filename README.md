@@ -13,20 +13,32 @@ I’m all about **continuous improvement** and **hands-on learning**—whether i
 
 ### 🛠️ Languages and Tools
 
-- **Languages**: Python, JavaScript, C++, HTML, CSS
-- **Libraries & Frameworks**: TensorFlow, Keras, Material UI, Firebase, Next.js
+- **Languages**: Python, JavaScript, C++, HTML, CSS, SQL
+- **Libraries & Frameworks**: TensorFlow, Keras, Material UI, Firebase, Next.js, React, Pandas, Scikit-Learn
 - **Geospatial Tools**: Google Earth Engine, QGIS, ENVI, SNAP
-- **Other Tools**: Git, GitHub, Power BI, Excel
+- **Other Tools**: Git, GitHub, Power BI, Excel, Figma, Docker
 
 ---
 
 ### 🚀 Projects
+
 Here are a few of my favorite projects! You can explore more in my repositories.
 
-- **[PantryPro](https://github.com/aisha1021/PantryPro)**: A pantry management app built with Material UI, Firebase, and Next.js to help you keep track of pantry items, create grocery lists, and discover recipes.
-- **Machine Learning for CDOM Prediction**: Leveraging satellite data and atmospheric correction algorithms to predict Colored Dissolved Organic Matter in water bodies.
-- **Glassdoor Job Review NLP Model**: An NLP model that analyzes Glassdoor job reviews and predicts overall job ratings using Keras and TensorFlow.
-- **Asthma Prevalence Analysis**: Data analysis project from my KPMG internship, where I used machine learning to forecast the impact of health insurance on asthma prevalence.
+- **[PantryPal](https://github.com/aisha1021/PantryPal)**  
+  **Tech Stack**: Next.js, Material UI, Firebase  
+  **Description**: PantryPal is a pantry management app that helps users track pantry items, create organized grocery lists, and discover recipes. Using Material UI for an intuitive interface and Firebase for backend storage, PantryPal allows users to search for items, categorize them, and maintain an organized pantry experience.
+
+- **[NSF REU Research on Water Quality](https://github.com/aisha1021/NSF_REU_2023_2025_Research)**  
+  **Tech Stack**: Python, Google Earth Engine, Remote Sensing Tools  
+  **Description**: As part of my NSF REU research, I developed machine learning models and applied atmospheric correction algorithms to analyze Colored Dissolved Organic Matter (CDOM) levels in lake water. This research leverages satellite imagery data to track water quality changes over time, contributing valuable insights for environmental monitoring and assessment.
+
+- **[CSCI 235: Software Analysis and Design II](https://github.com/aisha1021/CSCI_235_Software_Analysis_and_Design_ll)**  
+  **Tech Stack**: C++, Object-Oriented Programming  
+  **Description**: This repository contains my work from CSCI 235, where I focused on software design principles and advanced data structures in C++. I tackled various problem-solving assignments and built applications that demonstrate effective use of object-oriented programming, algorithms, and data organization.
+
+- **[Break Through Tech AI at Cornell Tech](https://github.com/aisha1021/Break_Through_Tech_AI_Cornell_Tech)**  
+  **Tech Stack**: Python, Scikit-Learn, Data Science  
+  **Description**: During my time with Break Through Tech AI at Cornell Tech, I worked on AI-driven projects that aimed to create social impact. I developed models for predictive analysis and explored real-world applications of machine learning, including classification, regression, and exploratory data analysis using Python.
 
 ---
 
