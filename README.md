@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a student and aspiring software engineer with a love
 ---
 
 ### 👩‍💻 About Me
-I'm Aisha, a creative coder and lifelong learner. From predicting water quality with satellite data to building useful web apps, I’m always up for a new tech challenge. When I’m not coding, I’m probably exploring a new city, crafting, or searching for the best coffee in town. 🌎 ☕ 
+I'm Aisha, a creative coder and lifelong learner. From predicting water quality with satellite data to building useful web apps, I’m always up for a new tech challenge. When I’m not coding, I’m probably exploring a new city, crafting, or enjoying a delicious bowl of ramen! 🌎 🍜 
 
 ---
 
@@ -45,16 +45,16 @@ I'm Aisha, a creative coder and lifelong learner. From predicting water quality 
 ### 🎨 Interests & Hobbies
 - **📚 Sci-Fi & Mystery Books**
 - **🎨 DIY Crafting & Art**
-- **☕ Coffee Explorer**
+- **🍜 Ramen Enthusiast**
 - **✈️ Traveling**
 
 ---
 
 ### 📬 Let’s Connect!
 
-- **LinkedIn**: [Aisha Malik](https://linkedin.com/in/aisha1021)
-- **Email**: aishamalik@example.com
-- **Portfolio**: [aishamalik.dev](https://aishamalik.dev)
+- **LinkedIn**: [Aisha Malik](https://www.linkedin.com/in/aisha-malik-2b3a142aa/)
+- **Email**: aisha.malik46@myhunter.cuny.edu
+- **Portfolio**: [aisha-malik.com](https://aisha-malik.com)
 
 ---
 
