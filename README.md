@@ -43,7 +43,7 @@ I'm Aisha, a creative coder and lifelong learner. From predicting water quality 
 ---
 
 ### 🎨 Interests & Hobbies
-- **📚 Sci-Fi & Mystery Books**
+- **📚 Sci-Fi & Fantasy Books**
 - **🎨 DIY Crafting & Art**
 - **🍜 Ramen Enthusiast**
 - **✈️ Traveling**
