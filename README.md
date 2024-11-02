@@ -1,66 +1,61 @@
 # Hi there, I'm Aisha Malik! 👋
 
-Welcome to my GitHub profile! I’m a passionate student and aspiring software engineer, constantly exploring the world of code, data, and innovation. My journey has taken me through projects in machine learning, geospatial analysis, and web development, with exciting research on water quality and CDOM prediction. Here, you’ll find some of my latest projects, code adventures, and areas of curiosity!
+Welcome to my GitHub! I’m a student and aspiring software engineer with a love for all things data, coding, and problem-solving. My projects dive into machine learning, geospatial analysis, and web development, all driven by a passion for impactful technology.
 
 ---
 
-### 🌟 About Me
-Hey! I'm Aisha, a student with a strong drive for building things that make a difference. I’ve been fascinated by the power of technology to tackle real-world challenges, from predicting water quality using satellite imagery to crafting helpful web applications. My academic background is sprinkled with experiences in machine learning, data analysis, and a bit of design, and I’m always on the lookout for new learning adventures. 
-
-I’m all about **continuous improvement** and **hands-on learning**—whether it’s developing algorithms for remote sensing or diving deep into frontend frameworks. When I’m not coding, I might be exploring new coffee spots, working on some DIY projects, or planning my next travel destination! 🌍
+### 👩‍💻 About Me
+I'm Aisha, a creative coder and lifelong learner. From predicting water quality with satellite data to building useful web apps, I’m always up for a new tech challenge. When I’m not coding, I’m probably exploring a new city, crafting, or searching for the best coffee in town. 🌎 ☕ 
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
-- **Languages**: Python, JavaScript, C++, HTML, CSS, SQL
-- **Libraries & Frameworks**: TensorFlow, Keras, Material UI, Firebase, Next.js, React, Pandas, Scikit-Learn
-- **Geospatial Tools**: Google Earth Engine, QGIS, ENVI, SNAP
-- **Other Tools**: Git, GitHub, Power BI, Excel, Figma, Docker
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-3CAA4E?style=for-the-badge&logo=qgis&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 Projects
-
-Here are a few of my favorite projects! You can explore more in my repositories.
+### 🚀 Featured Projects
 
 - **[PantryPal](https://github.com/aisha1021/PantryPal)**  
-  **Tech Stack**: Next.js, Material UI, Firebase  
-  **Description**: PantryPal is a pantry management app that helps users track pantry items, create organized grocery lists, and discover recipes. Using Material UI for an intuitive interface and Firebase for backend storage, PantryPal allows users to search for items, categorize them, and maintain an organized pantry experience.
+  A pantry management app to track pantry items, create lists, and discover recipes. Built with Next.js, Firebase, and Material UI.
 
 - **[NSF REU Research on Water Quality](https://github.com/aisha1021/NSF_REU_2023_2025_Research)**  
-  **Tech Stack**: Python, Google Earth Engine, Remote Sensing Tools  
-  **Description**: As part of my NSF REU research, I developed machine learning models and applied atmospheric correction algorithms to analyze Colored Dissolved Organic Matter (CDOM) levels in lake water. This research leverages satellite imagery data to track water quality changes over time, contributing valuable insights for environmental monitoring and assessment.
+  Machine learning models for tracking CDOM levels in lake water with satellite imagery, developed with Google Earth Engine and remote sensing tools.
 
 - **[CSCI 235: Software Analysis and Design II](https://github.com/aisha1021/CSCI_235_Software_Analysis_and_Design_ll)**  
-  **Tech Stack**: C++, Object-Oriented Programming  
-  **Description**: This repository contains my work from CSCI 235, where I focused on software design principles and advanced data structures in C++. I tackled various problem-solving assignments and built applications that demonstrate effective use of object-oriented programming, algorithms, and data organization.
+  Object-oriented projects in C++, focusing on data structures, algorithms, and design principles.
 
 - **[Break Through Tech AI at Cornell Tech](https://github.com/aisha1021/Break_Through_Tech_AI_Cornell_Tech)**  
-  **Tech Stack**: Python, Scikit-Learn, Data Science  
-  **Description**: During my time with Break Through Tech AI at Cornell Tech, I worked on AI-driven projects that aimed to create social impact. I developed models for predictive analysis and explored real-world applications of machine learning, including classification, regression, and exploratory data analysis using Python.
+  AI projects aimed at social impact, covering predictive analysis and real-world applications of machine learning.
 
 ---
 
 ### 🎨 Interests & Hobbies
-When I’m not coding, you might find me:
-- **📚 Reading**: I’m a big fan of science fiction and mystery novels!
-- **🎨 DIY Crafts**: I enjoy a good craft project, whether it’s painting or building something unique for my space.
-- **☕ Coffee Enthusiast**: Always on the lookout for the best coffee spots in town.
-- **🌍 Traveling**: I love exploring new cultures and have a never-ending travel bucket list.
+- **📚 Sci-Fi & Mystery Books**
+- **🎨 DIY Crafting & Art**
+- **☕ Coffee Explorer**
+- **✈️ Traveling**
 
 ---
 
-### 📬 Contact Me
-
-If you’d like to connect, feel free to reach out:
+### 📬 Let’s Connect!
 
 - **LinkedIn**: [Aisha Malik](https://linkedin.com/in/aisha1021)
-- **Email**: aishamalik@example.com (Replace with your actual email)
-- **Portfolio**: [aishamalik.dev](https://aishamalik.dev) (Replace with your actual website)
-
-Let’s connect and make cool things happen! 😊
+- **Email**: aishamalik@example.com
+- **Portfolio**: [aishamalik.dev](https://aishamalik.dev)
 
 ---
 
-Thanks for stopping by, and happy coding!
+Thanks for visiting, and happy coding! 😊
