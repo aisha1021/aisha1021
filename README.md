@@ -9,6 +9,23 @@ I'm Aisha, a creative coder and lifelong learner. From predicting water quality 
 
 ---
 
+### 🎯 Featured Project: AI Financial Question-Answering Model for Anote
+
+Check out my contribution to the Anote - BTT 1A Challenge, where I developed an AI model designed to answer complex financial questions accurately. This project required leveraging large language models (LLMs) and advanced fine-tuning techniques to extract actionable insights from financial data.
+
+- **Tools**: Python, AnoteAI, Retrieval-Augmented Generation (RAG), Pandas, Bizbench Dataset
+
+- **What We Did**:
+  - Utilized the bizbench testing dataset to train and test the model, addressing both numerical and categorical financial queries.
+  - Explored multiple fine-tuning techniques based on the Finance Bench dataset and Kensho benchmarks.
+  - Implemented RAG methods to ensure accurate, context-aware responses.
+  - Delivered a submission-ready CSV output for leaderboard evaluation.
+  - Results: Achieved a robust model performance with precision in financial question-answering tasks, contributing to the S&P Global AI Benchmarks.
+
+Explore the project on GitHub: **[BTT-Anote-1A](https://github.com/aisha1021/BTT-Anote-1A)**  
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="center">
