@@ -44,11 +44,11 @@ I'm Aisha, a creative coder and lifelong learner. From predicting water quality 
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha1021&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aisha1021&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aisha1021&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha1021&layout=compact&theme=radical" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=aisha1021&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aisha1021&theme=radical" alt="GitHub Streak" />
 
 ---
 
