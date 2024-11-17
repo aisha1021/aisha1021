@@ -66,15 +66,18 @@ Explore the project on GitHub: **[BTT-Anote-1A](https://github.com/aisha1021/BTT
   - **Tech Stack**: Next.js, Firebase, Material UI  
   - **Learnings**: Building interactive web applications and integrating real-time databases.
 
+
 - **[NSF REU Research on Water Quality](https://github.com/aisha1021/NSF_REU_2023_2025_Research)**  
   Developed machine learning models to track CDOM levels in lake water using satellite imagery.  
   - **Tech Stack**: Google Earth Engine, Python, Remote Sensing Tools  
   - **Learnings**: Working with satellite data and applying ML for environmental research.
 
+
 - **[CSCI 235: Software Analysis and Design II](https://github.com/aisha1021/CSCI_235_Software_Analysis_and_Design_ll)**  
   Designed and implemented object-oriented projects focusing on data structures and algorithms.  
   - **Tech Stack**: C++, OOP Principles  
   - **Learnings**: Developing efficient algorithms and mastering object-oriented programming concepts.
+
 
 - **[Break Through Tech AI at Cornell Tech](https://github.com/aisha1021/Break_Through_Tech_AI_Cornell_Tech)**  
   Created AI-driven solutions targeting social impact with predictive analysis and ML applications.  
