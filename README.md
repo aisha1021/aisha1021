@@ -29,16 +29,24 @@ I'm Aisha, a creative coder and lifelong learner. From predicting water quality 
 ### 🚀 Featured Projects
 
 - **[PantryPal](https://github.com/aisha1021/PantryPal)**  
-  A pantry management app to track pantry items, create lists, and discover recipes. Built with Next.js, Firebase, and Material UI.
+  A pantry management app to track pantry items and create lists.  
+  - **Tech Stack**: Next.js, Firebase, Material UI  
+  - **Learnings**: Building interactive web applications and integrating real-time databases.
 
 - **[NSF REU Research on Water Quality](https://github.com/aisha1021/NSF_REU_2023_2025_Research)**  
-  Machine learning models for tracking CDOM levels in lake water with satellite imagery, developed with Google Earth Engine and remote sensing tools.
+  Developed machine learning models to track CDOM levels in lake water using satellite imagery.  
+  - **Tech Stack**: Google Earth Engine, Python, Remote Sensing Tools  
+  - **Learnings**: Working with satellite data and applying ML for environmental research.
 
 - **[CSCI 235: Software Analysis and Design II](https://github.com/aisha1021/CSCI_235_Software_Analysis_and_Design_ll)**  
-  Object-oriented projects in C++, focusing on data structures, algorithms, and design principles.
+  Designed and implemented object-oriented projects focusing on data structures and algorithms.  
+  - **Tech Stack**: C++, OOP Principles  
+  - **Learnings**: Developing efficient algorithms and mastering object-oriented programming concepts.
 
 - **[Break Through Tech AI at Cornell Tech](https://github.com/aisha1021/Break_Through_Tech_AI_Cornell_Tech)**  
-  AI projects aimed at social impact, covering predictive analysis and real-world applications of machine learning.
+  Created AI-driven solutions targeting social impact with predictive analysis and ML applications.  
+  - **Tech Stack**: Python, scikit-learn, Pandas  
+  - **Learnings**: Leveraging AI for societal challenges and exploring real-world applications of machine learning.
 
 ---
 
