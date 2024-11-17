@@ -1,11 +1,11 @@
 # Hi there, I'm Aisha Malik! 👋
 
-Welcome to my GitHub! I’m a student and aspiring artificial intelligence and software engineer with a love for all things data, coding, and problem-solving. My projects dive into machine learning, geospatial analysis, and web development, all driven by a passion for impactful technology.
+Welcome to my GitHub! I am a Junior at Hunter College in New York City, studying Computer Science. I'm an aspiring artificial intelligence and software engineer with a love for all things data, coding, and problem-solving. My projects dive into machine learning, geospatial analysis, and web development, all driven by a passion for impactful technology.
 
 ---
 
 ### 👩‍💻 About Me
-I'm Aisha, a creative coder and lifelong learner. From predicting water quality with satellite data to building useful web apps, I’m always up for a new tech challenge. When I’m not coding, I’m probably exploring a new city, crafting, or enjoying a delicious bowl of ramen! 🌎 🍜 
+I'm Aisha, a creative coder and lifelong learner. From predicting lake water quality with satellite data to building useful web apps, I’m always up for a new tech challenge. When I’m not coding, I’m probably exploring a new city, crafting, or enjoying a delicious bowl of ramen! 🌎 🍜 
 
 ---
 
@@ -13,11 +13,11 @@ I'm Aisha, a creative coder and lifelong learner. From predicting water quality 
 
 Check out my contribution to the Anote - BTT 1A Challenge, where I developed an AI model designed to answer complex financial questions accurately. This project required leveraging large language models (LLMs) and advanced fine-tuning techniques to extract actionable insights from financial data.
 
-- **Tools**: Python, AnoteAI, Retrieval-Augmented Generation (RAG), Pandas, Bizbench Dataset
+- **Tools**: Python, Retrieval-Augmented Generation (RAG), LoRA, Pandas, NumPy, Transformers, Google Colab
 
 - **What We Did**:
   - Utilized the bizbench testing dataset to train and test the model, addressing both numerical and categorical financial queries.
-  - Explored multiple fine-tuning techniques based on the Finance Bench dataset and Kensho benchmarks.
+  - Explored multiple fine-tuning techniques based on the FinanceBench dataset and Kensho benchmarks.
   - Implemented RAG methods to ensure accurate, context-aware responses.
   - Delivered a submission-ready CSV output for leaderboard evaluation.
   - Results: Achieved a robust model performance with precision in financial question-answering tasks, contributing to the S&P Global AI Benchmarks.
