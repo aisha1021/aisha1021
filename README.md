@@ -26,7 +26,7 @@ I'm Aisha, a creative coder and lifelong learner. From predicting water quality 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 - **[PantryPal](https://github.com/aisha1021/PantryPal)**  
   A pantry management app to track pantry items and create lists.  
