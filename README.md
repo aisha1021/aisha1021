@@ -78,7 +78,7 @@ Explore the project on GitHub: **[BTT-Anote-1A](https://github.com/aisha1021/BTT
   - **Learnings**: Developing efficient algorithms and mastering object-oriented programming concepts.
 
 
-- **[Break Through Tech AI at Cornell Tech](https://github.com/aisha1021/Break_Through_Tech_AI_Cornell_Tech)**  
+- **[Break Through Tech AI at Cornell Tech](https://github.com/aisha1021/My-eCornell-Portfolio)**  
   Created AI-driven solutions targeting social impact with predictive analysis and ML applications.  
   - **Tech Stack**: Python, scikit-learn, Pandas  
   - **Learnings**: Leveraging AI for societal challenges and exploring real-world applications of machine learning.
@@ -90,8 +90,6 @@ Explore the project on GitHub: **[BTT-Anote-1A](https://github.com/aisha1021/BTT
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha1021&layout=compact&theme=radical" alt="Top Languages" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=aisha1021&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aisha1021&theme=radical" alt="GitHub Streak" />
 
 ---
 
