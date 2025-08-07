@@ -16,11 +16,6 @@ Explore our collaborative replication of a key computational social science stud
 - **Tools**:  R, Bash, tidyverse, ggplot2, MASS, broom, RMarkdown, GitHub, Twitter Community Notes Public Dataset
  
 - **What We Did**:
-  - Utilized the bizbench testing dataset to train and test the model, addressing both numerical and categorical financial queries.
-  - Explored multiple fine-tuning techniques based on the FinanceBench dataset and Kensho benchmarks.
-  - Implemented RAG methods to ensure accurate, context-aware responses.
-  - Delivered a submission-ready CSV output for leaderboard evaluation.
-  - Results: Achieved a robust model performance with precision in financial question-answering tasks, contributing to the S&P Global AI Benchmarks.
   - Reproduced major visualizations from the original study, including Figures 2–4, 5c, and 7–10, using structured Community Notes data.
   - Automated the data collection pipeline using shell scripts for seamless reproducibility.
   - Transformed and analyzed large-scale user-generated content with tidy data workflows.
