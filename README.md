@@ -70,7 +70,7 @@ By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
   - **Tech Stack**: Google Earth Engine, Python, Remote Sensing Tools  
   - **Learnings**: Working with satellite data and applying ML for environmental research.
 
- - **[AI Financial Question-Answering Model for Anote]([https://github.com/aisha1021/PantryPal](https://github.com/aisha1021/BTT-Anote-1A))**  
+ - **[AI Financial Question-Answering Model for Anote](https://github.com/aisha1021/BTT-Anote-1A)**  
    Developed an AI model designed to answer complex financial questions.  
   - **Tech Stack**: Python, Retrieval-Augmented Generation (RAG), LoRA, Pandas, NumPy, Transformers, Google Colab
   - **Learnings**: Fine-tuning AI models and implementing RAG for accurate, context-aware financial answers.
