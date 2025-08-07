@@ -9,20 +9,29 @@ I'm Aisha, a creative coder and lifelong learner. From predicting lake water qua
 
 ---
 
-### 🎯 Featured Project: AI Financial Question-Answering Model for Anote
+### 🎯 Featured Project: Replication of Community-Based Fact-Checking on Twitter’s Birdwatch Platform (Microsoft DS3)
 
-Check out my contribution to the Anote - BTT 1A Challenge, where I developed an AI model designed to answer complex financial questions accurately. This project required leveraging large language models (LLMs) and advanced fine-tuning techniques to extract actionable insights from financial data.
+Explore our collaborative replication of a key computational social science study analyzing how users contribute to Twitter’s (now X’s) Community Notes platform. We recreated the main findings from Proellochs (2021) using publicly available data and extended the analysis to explore the role of political bias in user evaluations.
 
-- **Tools**: Python, Retrieval-Augmented Generation (RAG), LoRA, Pandas, NumPy, Transformers, Google Colab
-
+- **Tools**:  R, Bash, tidyverse, ggplot2, MASS, broom, RMarkdown, GitHub, Twitter Community Notes Public Dataset
+ 
 - **What We Did**:
   - Utilized the bizbench testing dataset to train and test the model, addressing both numerical and categorical financial queries.
   - Explored multiple fine-tuning techniques based on the FinanceBench dataset and Kensho benchmarks.
   - Implemented RAG methods to ensure accurate, context-aware responses.
   - Delivered a submission-ready CSV output for leaderboard evaluation.
   - Results: Achieved a robust model performance with precision in financial question-answering tasks, contributing to the S&P Global AI Benchmarks.
+  - Reproduced major visualizations from the original study, including Figures 2–4, 5c, and 7–10, using structured Community Notes data.
+  - Automated the data collection pipeline using shell scripts for seamless reproducibility.
+  - Transformed and analyzed large-scale user-generated content with tidy data workflows.
+  - Proposed an original conceptual extension (RQ6) to investigate how users’ political orientation may impact their credibility assessments on politically charged content.
+ 
+- **Results:**
+  - Successfully replicated core visualizations and analyses from the original publication, demonstrating the robustness of open fact-checking metrics. Our extension adds nuance to the understanding of ideological influence on crowdsourced moderation.
 
-Explore the project on GitHub: **[BTT-Anote-1A](https://github.com/aisha1021/BTT-Anote-1A)**  
+**Explore the project on GitHub:** [Birdwatch Replication + Political Bias Extension](https://github.com/msr-ds3/community-notes-2025-group-5)
+
+By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
 
 ---
 
@@ -65,6 +74,11 @@ Explore the project on GitHub: **[BTT-Anote-1A](https://github.com/aisha1021/BTT
   Developed machine learning models to track CDOM levels in lake water using satellite imagery.  
   - **Tech Stack**: Google Earth Engine, Python, Remote Sensing Tools  
   - **Learnings**: Working with satellite data and applying ML for environmental research.
+
+ - **[AI Financial Question-Answering Model for Anote]([https://github.com/aisha1021/PantryPal](https://github.com/aisha1021/BTT-Anote-1A))**  
+   Developed an AI model designed to answer complex financial questions.  
+  - **Tech Stack**: Python, Retrieval-Augmented Generation (RAG), LoRA, Pandas, NumPy, Transformers, Google Colab
+  - **Learnings**: Fine-tuning AI models and implementing RAG for accurate, context-aware financial answers.
 
 - **[PantryPal](https://github.com/aisha1021/PantryPal)**  
   A pantry management app to track pantry items and create lists.  
