@@ -4,12 +4,12 @@ Welcome to my GitHub! I am a Junior at Hunter College in New York City, studying
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 I'm Aisha, a creative coder and lifelong learner. From predicting lake water quality with satellite data to building useful web apps, I’m always up for a new tech challenge. When I’m not coding, I’m probably exploring a new city, crafting, or enjoying a delicious bowl of ramen! 🌎 🍜 
 
 ---
 
-### 🎯 Featured Project: Replication of Community-Based Fact-Checking on Twitter’s Birdwatch Platform (Microsoft DS3)
+### Featured Project: Replication of Community-Based Fact-Checking on Twitter’s Birdwatch Platform (Microsoft DS3)
 
 Explore our collaborative replication of a key computational social science study analyzing how users contribute to Twitter’s (now X’s) Community Notes platform. We recreated the main findings from Proellochs (2021) using publicly available data and extended the analysis to explore the role of political bias in user evaluations.
 
@@ -63,15 +63,15 @@ By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - **[NSF REU Research on Water Quality](https://github.com/aisha1021/NSF_REU_2023_2025_Research)**  
-  Developed machine learning models to track CDOM levels in lake water using satellite imagery.  
+  Developed machine learning models to track DOC levels in lake water using satellite imagery.  
   - **Tech Stack**: Google Earth Engine, Python, Remote Sensing Tools  
   - **Learnings**: Working with satellite data and applying ML for environmental research.
 
- - **[AI Financial Question-Answering Model for Anote](https://github.com/aisha1021/BTT-Anote-1A)**  
-   Developed an AI model designed to answer complex financial questions.  
+ - **[AI Financial Question-Answering LLMs for Anote](https://github.com/aisha1021/BTT-Anote-1A)**  
+   Tested small LLMs on financial question answering with FinanceBench.  
   - **Tech Stack**: Python, Retrieval-Augmented Generation (RAG), LoRA, Pandas, NumPy, Transformers, Google Colab
   - **Learnings**: Fine-tuning AI models and implementing RAG for accurate, context-aware financial answers.
 
@@ -94,15 +94,13 @@ By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha1021&layout=compact&theme=radical" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=aisha1021&show_icons=true&theme=radical" alt="GitHub Stats" />
-
 ---
 
-### 🎨 Interests & Hobbies
+### Interests & Hobbies
 - **📚 Sci-Fi & Fantasy Books**
 - **🎨 DIY Crafting & Art**
 - **🍜 Ramen Enthusiast**
