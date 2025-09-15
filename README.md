@@ -24,7 +24,7 @@ Explore our collaborative replication of a key computational social science stud
 - **Results:**
   - Successfully replicated core visualizations and analyses from the original publication, demonstrating the robustness of open fact-checking metrics. Our extension adds nuance to the understanding of ideological influence on crowdsourced moderation.
 
-**Explore the project on GitHub:** [Birdwatch Replication + Political Bias Extension](https://github.com/msr-ds3/community-notes-2025-group-5)
+**Explore the project on GitHub:** [Birdwatch Replication](https://github.com/msr-ds3/community-notes-2025-group-5)
 
 By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
 
