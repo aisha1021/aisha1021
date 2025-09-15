@@ -1,6 +1,6 @@
 # Hi there, I'm Aisha Malik! 👋
 
-Welcome to my GitHub! I am a Junior at Hunter College in New York City, studying Computer Science. I'm an aspiring artificial intelligence and software engineer with a love for all things data, coding, and problem-solving. My projects dive into machine learning, geospatial analysis, and web development, all driven by a passion for impactful technology.
+Welcome to my GitHub! I am a Junior at Hunter College in New York City, studying Computer Science. I'm an aspiring machine learning engineer with a love for all things data, coding, and problem-solving. My projects dive into AI, geospatial analysis, and web development, all driven by a passion for impactful technology.
 
 ---
 
