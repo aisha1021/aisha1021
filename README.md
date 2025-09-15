@@ -30,7 +30,7 @@ By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -108,7 +108,7 @@ By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
 
 ---
 
-### 📬 Let’s Connect!
+### Let’s Connect!
 
 - **LinkedIn**: [Aisha Malik](https://www.linkedin.com/in/aisha-malik-2b3a142aa/)
 - **Email**: aisha.malik46@myhunter.cuny.edu
