@@ -1,11 +1,6 @@
 # Hi there, I'm Aisha! 👋
 
-Welcome to my GitHub! I am a Junior at Hunter College in New York City, studying Computer Science. I'm an aspiring machine learning engineer with a love for all things data, coding, and problem-solving. My projects dive into AI, geospatial analysis, and web development, all driven by a passion for impactful technology.
-
----
-
-### About Me
-I'm Aisha, a creative coder and lifelong learner. From predicting lake water quality with satellite data to building useful web apps, I’m always up for a new tech challenge. When I’m not coding, I’m probably exploring a new city, crafting, or enjoying a delicious bowl of ramen! 🌎 🍜 
+Welcome to my GitHub! I am a Senior at Hunter College in New York City, studying Computer Science with minors in Mathematics and Business. I'm an aspiring machine learning engineer with a love for all things data, coding, and problem-solving. My projects dive into AI, geospatial analysis, and web development.
 
 ---
 
@@ -14,15 +9,6 @@ I'm Aisha, a creative coder and lifelong learner. From predicting lake water qua
 Explore our collaborative replication of a key computational social science study analyzing how users contribute to Twitter’s (now X’s) Community Notes platform. We recreated the main findings from Proellochs (2021) using publicly available data and extended the analysis to explore the role of political bias in user evaluations.
 
 - **Tools**:  R, Bash, tidyverse, ggplot2, MASS, broom, RMarkdown, GitHub, Twitter Community Notes Public Dataset
- 
-- **What We Did**:
-  - Reproduced major visualizations from the original study, including Figures 2–4, 5c, and 7–10, using structured Community Notes data.
-  - Automated the data collection pipeline using shell scripts for seamless reproducibility.
-  - Transformed and analyzed large-scale user-generated content with tidy data workflows.
-  - Proposed an original conceptual extension (RQ6) to investigate how users’ political orientation may impact their credibility assessments on politically charged content.
- 
-- **Results:**
-  - Successfully replicated core visualizations and analyses from the original publication, demonstrating the robustness of open fact-checking metrics. Our extension adds nuance to the understanding of ideological influence on crowdsourced moderation.
 
 **Explore the project on GitHub:** [Birdwatch Replication](https://github.com/msr-ds3/community-notes-2025-group-5)
 
@@ -97,14 +83,6 @@ By: Aisha Malik (CUNY Hunter College) & Vanessa Reino (Rider University)
 ### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisha1021&layout=compact&theme=radical" alt="Top Languages" />
-
----
-
-### Interests & Hobbies
-- **📚 Sci-Fi & Fantasy Books**
-- **🎨 DIY Crafting & Art**
-- **🍜 Ramen Enthusiast**
-- **✈️ Traveling**
 
 ---
 
