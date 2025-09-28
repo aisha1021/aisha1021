@@ -1,4 +1,4 @@
-# Hi there, I'm Aisha! 👋
+# Hi there, I'm Aisha!
 
 Welcome to my GitHub! I am a Senior at Hunter College in New York City, studying Computer Science with minors in Mathematics and Business. I'm an aspiring machine learning engineer with a love for all things data, coding, and problem-solving. My projects dive into AI, geospatial analysis, and web development.
 
